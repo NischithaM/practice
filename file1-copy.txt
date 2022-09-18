@@ -1,3 +1,4 @@
 1. name = anil
 2. place = banglore
-3.  age = 25
+3. gender = male
+4. age = 25
