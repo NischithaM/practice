@@ -1,5 +1,6 @@
 1. name = anil kumar
 2. place = banglore urban
+2. place = banglore city
 3. salary = 12 lpa 
 4. work = engineer
 5. age = 25
